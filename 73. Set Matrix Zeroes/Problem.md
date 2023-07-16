@@ -14,6 +14,7 @@ Output: [[1,0,1],[0,0,0],[1,0,1]]
 </pre>
 
 Example 2:
+
 ![mat2](https://github.com/Chackoseb/CrackYourPlacement/assets/95061303/1e143ac2-12b1-4d35-ae32-522b0837a152)
 
 <pre>
